@@ -11,7 +11,7 @@ const compat = new FlatCompat({
   baseDirectory: __dirname,
 })
 
-export default [
+const config = [
   ...compat.extends('next/core-web-vitals'),
   packageJson.configs.recommended,
   stylistic.configs.recommended,
@@ -28,3 +28,5 @@ export default [
     },
   },
 ]
+
+export default config
