@@ -1,5 +1,5 @@
 ```bash
-npx degit idmytro/react-starters/s/next-js-pnpm-plus .
+npx degit idmytro/react-starters/s/next-js-pnpm-plus-academind .
 ```
 
 -----
