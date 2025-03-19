@@ -1,1 +1,1 @@
-# minimal-pnpm-multi
+# react-starters
