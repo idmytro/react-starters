@@ -4,10 +4,5 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "18.20.3",
-    "pnpm": ">=9.15.0"
-  },
-  "packageManager": "pnpm@9.15.0"
+  }
 }
