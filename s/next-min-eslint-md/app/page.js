@@ -1,8 +1,6 @@
 import MdContent from '../markdown/md.mdx'
 import LikeButton from './like-button'
 
-/* https://nextjs.org/docs/app/building-your-application/configuring/mdx */
-
 function Header({ title }) {
   return <h1>{title || 'Default title'}</h1>
 }
